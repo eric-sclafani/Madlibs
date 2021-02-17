@@ -1,5 +1,5 @@
 #Created by Eric Sclafani
-#stories from http://www.redkid.net/madlibs/
+#Please note that I did NOT create these stories. They are from: http://www.redkid.net/madlibs/
 import sys
 import tkinter as tk
 from tkinter import ttk
